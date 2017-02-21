@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="IDM" verbose="1">
+	<test name="Regression Test Suite">
+	<packages>
+      <package name="com.covisint.automation.projectname.modulename.tests.type"/>
+       
+      <package name="com.covisint.automation.product.idm.prodsceprd"/>
+   </packages>
+	</test>
+</suite>
